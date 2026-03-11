@@ -1,7 +1,7 @@
 # chem_parser
 A small interactive command-line-interface that can parse molecules and their molecular weights. 
 
-It was very nice for helping me with my Junior year high school chemistry homework. It handles some errors but not all because it was only used for homework.
+It was very nice for helping me with my Junior year high school chemistry homework. It supports parentheses for more complex formulas. It handles some errors but not all because it was only used for homework.
 
 Usage from cloned repository: 
 
